@@ -11,6 +11,7 @@ namespace TestingAplication
         static void Main(string[] args)
         {
             printf("Hello"); 
+            printf("NEW");
         }
 
         private static void printf(string v)
